@@ -1,1 +1,1 @@
-My favorite langauge is C#.
+My favorite langauge is JavaScript.

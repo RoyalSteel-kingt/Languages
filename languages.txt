@@ -1,5 +1,5 @@
-Java
-HTML
+JavaScript
+HTML/CSS
 C++
-Python
-PHP
+PH
+C#
